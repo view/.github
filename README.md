@@ -1,0 +1,2 @@
+# .github
+Not for sale.
